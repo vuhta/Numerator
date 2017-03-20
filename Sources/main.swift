@@ -1,1 +1,2 @@
-print("Hello, world!")
+let numerator = Numerator()
+numerator.performChosenOperation()
